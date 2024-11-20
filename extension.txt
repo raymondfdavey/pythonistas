@@ -1,0 +1,14 @@
+1.1
+DECODER
+takes an encoded message and decodes it (#between letters * as spaces)
+
+pythonisgreat
+
+
+ENCODER
+takes a string message and encodes it in the same
+
+1.2 (extension to basic fibonacci task)
+
+
+
